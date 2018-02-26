@@ -164,6 +164,7 @@ to C programming.
 
 ### Advanced books ###
 
+
 ## Lexing and Parsing ##
 
 Libraries specifically for lexical analysis (or lexing) and syntactic analysis
@@ -201,6 +202,7 @@ Implementations of the (standard-mandated) C standard library.
 ## String Manipulation ##
 
 ## Testing ##
+* [Testify][357]
 
 ## Text Editor Extensions ##
 
@@ -277,4 +279,4 @@ support for C.
 [Zlib]: https://spdx.org/licenses/Zlib.html
 
 [4]: https://github.com/aosp-mirror/platform_bionic
-
+[500]: https://github.com/stretchr/testify
